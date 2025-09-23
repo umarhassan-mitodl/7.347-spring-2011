@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Microbiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
+  "legacy_uid": "55b1c54b-3734-54d7-031e-01c9842ede1f",
+  "instructors": {
+    "content": [
+      "3633537c-c1f0-9d09-11ab-c27522808d9a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9993f7d2-c6a5-b69a-41d6-ce71e553507b",
+    "website": "7-347-fueling-sustainability-engineering-microbial-systems-for-biofuel-production-spring-2011"
+  },
+  "course_title": "Fueling Sustainability: Engineering Microbial Systems for Biofuel Production",
+  "course_description": "The need to identify sustainable forms of energy as an alternative to our dependence on depleting worldwide oil reserves is one of the grand challenges of our time. The energy from the sun converted into plant biomass is the most promising renewable resource available to humanity. This seminar will examine each of the critical steps along the pathway towards the conversion of plant biomass into ethanol.\n\nThis course is one of many {{% resource_link \"7c393d3b-746a-4ad2-87a8-c27d82abcb9b\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.347",
+  "course_image_thumbnail": {
+    "content": "95d30d53-7ace-d581-f51a-90d2ccade77d",
+    "website": "7-347-fueling-sustainability-engineering-microbial-systems-for-biofuel-production-spring-2011"
+  },
+  "learning_resource_types": [],
+  "site_uid": "40da2d3b-0b88-46a7-83d8-82c63991d57b",
+  "site_short_id": "7.347-spring-2011",
+  "site_url_path": "courses/7-347-fueling-sustainability-engineering-microbial-systems-for-biofuel-production-spring-2011",
+  "title": "Course Metadata"
+}

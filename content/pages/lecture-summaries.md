@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics along with summaries
   of each lecture.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -105,7 +107,7 @@ Anaerobic rumen microbes are known to produce cellulosomes, which are large mole
 {{< anchor "Guest" >}}{{< /anchor >}}Guest speaker: Industrial Biomass Processing and Hydrolysis
 {{< tdclose >}}
 {{< tdopen >}}
-Prof. Chris Kaiser, who is a member of the Scientific Advisory Board at {{% resource_link "fad88e91-97e1-41a9-bac0-4daca54cfd2d" "Mascoma" %}}® (a local biofuels company), will discuss issues related to industrial biomass processing and hydrolysis.
+Prof. Chris Kaiser, who is a member of the Scientific Advisory Board at [Mascoma](https://www.mascoma.com/)® (a local biofuels company), will discuss issues related to industrial biomass processing and hydrolysis.
 {{< tdclose >}}
 
 {{< trclose >}}

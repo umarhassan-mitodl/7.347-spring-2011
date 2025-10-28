@@ -33,8 +33,7 @@
     "website": "7-347-fueling-sustainability-engineering-microbial-systems-for-biofuel-production-spring-2011"
   },
   "course_title": "Fueling Sustainability: Engineering Microbial Systems for Biofuel Production",
-  "hide_download": true,
-  "course_description": "The need to identify sustainable forms of energy as an alternative to our dependence on depleting worldwide oil reserves is one of the grand challenges of our time. The energy from the sun converted into plant biomass is the most promising renewable resource available to humanity. This seminar will examine each of the critical steps along the pathway towards the conversion of plant biomass into ethanol.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "course_description": "The need to identify sustainable forms of energy as an alternative to our dependence on depleting worldwide oil reserves is one of the grand challenges of our time. The energy from the sun converted into plant biomass is the most promising renewable resource available to humanity. This seminar will examine each of the critical steps along the pathway towards the conversion of plant biomass into ethanol.\n\nThis course is one of many {{% resource_link \"5e99a361-d876-41b9-b9a8-f550bbc10214\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
   "department_numbers": [
     "7"
   ],
@@ -44,7 +43,6 @@
     "content": "95d30d53-7ace-d581-f51a-90d2ccade77d",
     "website": "7-347-fueling-sustainability-engineering-microbial-systems-for-biofuel-production-spring-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "40da2d3b-0b88-46a7-83d8-82c63991d57b",
   "site_short_id": "7.347-spring-2011",
